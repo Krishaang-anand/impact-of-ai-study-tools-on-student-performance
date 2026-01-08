@@ -48,3 +48,7 @@ This dissertation is helping me develop skills in research design, data collecti
 
 ### Project status
 Ongoing
+
+### Research updates
+Progress updates, reflections, and observations from this dissertation are documented on my blog:
+https://medium.com/@krishaanngg/studying-the-impact-of-ai-study-tools-on-student-performance-90cfe9eeb44c
